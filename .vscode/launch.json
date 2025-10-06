@@ -1,0 +1,71 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "StudentApp",
+      "request": "launch",
+      "mainClass": "StudentApp",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "ProductCRUD",
+      "request": "launch",
+      "mainClass": "ProductCRUD",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "FetchEmployeeData",
+      "request": "launch",
+      "mainClass": "FetchEmployeeData",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "StudentStreamFilterSort",
+      "request": "launch",
+      "mainClass": "StudentStreamFilterSort",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeSortingLambda",
+      "request": "launch",
+      "mainClass": "EmployeeSortingLambda",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "StudentSerialization",
+      "request": "launch",
+      "mainClass": "StudentSerialization",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "StudentSerializationDemo",
+      "request": "launch",
+      "mainClass": "StudentSerializationDemo",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "SumOfIntegersAutoUnbox",
+      "request": "launch",
+      "mainClass": "SumOfIntegersAutoUnbox",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "my-project_7f49e793"
+    }
+  ]
+}
